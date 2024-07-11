@@ -1,0 +1,14 @@
+D:\data-base\visualprojects\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.exe
+D:\data-base\visualprojects\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.deps.json
+D:\data-base\visualprojects\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.runtimeconfig.json
+D:\data-base\visualprojects\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.dll
+D:\data-base\visualprojects\ConsoleApp9\bin\Debug\net8.0\ConsoleApp9.pdb
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfoInputs.cache
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.AssemblyInfo.cs
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.dll
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\refint\ConsoleApp9.dll
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.pdb
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ConsoleApp9.genruntimeconfig.cache
+D:\data-base\visualprojects\ConsoleApp9\obj\Debug\net8.0\ref\ConsoleApp9.dll
