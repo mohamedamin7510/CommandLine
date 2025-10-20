@@ -71,5 +71,13 @@ Once running, the application prompts for commands which accept a command keywor
 > read C:\MyFolder\file.txt
 
 > type C:\MyFolder\file.txt
+```
+## How It Works
 
+- The entry point is Program.cs, which reads user input from the console.
 
+- Input is parsed into two components: the command (e.g., list) and the path (e.g., C:\…).
+
+- Depending on the command, the app uses classes in System.IO (e.g., DirectoryInfo, FileInfo, StreamReader, StreamWriter) to perform file system operations.
+
+- The code is modular and can be extended easily with new commands.
