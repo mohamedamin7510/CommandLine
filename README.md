@@ -9,13 +9,10 @@ A lightweight C#‑based mini “command line” tool that supports basic direct
 - [About the Project](#about-the-project)  
 - [Features](#features)  
 - [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-- [Usage](#usage)  
-  - [Available Commands](#available-commands)  
+  - [Prerequisites](#prerequisites)   
+- [Usage](#usage)    
 - [How It Works](#how-it-works)  
 - [Contributing](#contributing)  
-- [License](#license)  
 - [Contact](#contact)  
 
 ---
@@ -81,3 +78,29 @@ Once running, the application prompts for commands which accept a command keywor
 - Depending on the command, the app uses classes in System.IO (e.g., DirectoryInfo, FileInfo, StreamReader, StreamWriter) to perform file system operations.
 
 - The code is modular and can be extended easily with new commands.
+
+
+## ontributing
+
+Contributions are welcome! If you have ideas for new commands, improvements, bug fixes, or better error-handling — please fork the repo and open a pull request.
+
+### Guidelines:
+
+- Use clear commit messages
+
+- Add tests for new features where applicable
+
+- Follow existing code style and structure
+
+- Update the README for any new commands or features
+
+  ---
+## Contact
+
+### Created by Mohamed Amin.
+
+GitHub: @mohamedamin7510
+
+Email: [maming7510@gmial.com]
+
+Thanks for checking out the project — enjoy exploring simple command‑line tools in C#!
