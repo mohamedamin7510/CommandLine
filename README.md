@@ -80,7 +80,7 @@ Once running, the application prompts for commands which accept a command keywor
 - The code is modular and can be extended easily with new commands.
 
 
-## ontributing
+## Contributing
 
 Contributions are welcome! If you have ideas for new commands, improvements, bug fixes, or better error-handling — please fork the repo and open a pull request.
 
