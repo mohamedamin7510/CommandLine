@@ -54,3 +54,14 @@ It is ideal for learning and exploring how command parsing, file I/O and directo
 1. Clone the repository:  
    ```bash
    git clone https://github.com/mohamedamin7510/CommandLine.git
+
+
+## Usage
+
+Once running, the application prompts for commands which accept a command keyword followed by a path.
+
+> list C:\MyFolder
+> info C:\MyFolder\file.txt
+> createDir C:\MyFolder\NewDirectory
+> removeDir C:\MyFolder\OldDirectory
+
