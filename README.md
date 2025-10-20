@@ -61,7 +61,15 @@ It is ideal for learning and exploring how command parsing, file I/O and directo
 Once running, the application prompts for commands which accept a command keyword followed by a path.
 
 > list C:\MyFolder
+
 > info C:\MyFolder\file.txt
-> createDir C:\MyFolder\NewDirectory
-> removeDir C:\MyFolder\OldDirectory
+
+> mkdir C:\MyFolder\NewDirectory
+
+> remove C:\MyFolder\OldDirectory
+
+> read C:\MyFolder\file.txt
+
+> type C:\MyFolder\file.txt
+
 
